@@ -1,0 +1,149 @@
+@import "reset.css";
+
+.begin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width: 95%;
+    padding: 5px;
+}
+.F{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#F1{
+    color: rgb(92, 92, 92);
+}
+h1{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+}
+p{  
+    font-size: 25px;
+    color: grey;
+    padding-top: 10px;
+
+}
+h2{
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 45px;
+}
+.begIm{
+    width: 40px;
+    height: auto;
+}
+.bl1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 100px;
+    flex-wrap: wrap;
+
+}
+.bltx1
+{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-top: 30px;
+    gap: 30px;
+}
+.blim1{
+    width: 800px;
+    height: auto;
+}
+.bl2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 200px;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+.bltx2
+{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    padding-top: 10px;
+    gap: 30px;
+}
+.blim2{
+    width: 700px;
+    height: auto;
+}
+
+.bl3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 200px;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+.bltx3
+{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    gap: 30px;
+}
+.blim3{
+    width: 700px;
+    height: auto;
+}
+.bl4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+}
+.bltx4{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    gap: 30px;
+    text-align: center;
+}
+#F2{
+    color: white;
+}
+.blim4
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    gap: 100px;
+
+}
+.bl0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 40px;
+    border: 2px solid grey;
+    border-radius: 20px;
+}
+#F2{
+    color: white;
+}
+.bl01{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 40px;
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 20px;
+}
